@@ -1,3 +1,10 @@
 # Battleship
 
-Basic academic version of Battleship game to build upon.
+### Grupo: Amêijoas Alérgicas ETI
+
+| Nome | Número |
+| :--- | :--- |
+| Henrique Catarino | 129799 |
+| Rafael Assunção | 129792 |
+| Miguel Ferreira | 122620 |
+
