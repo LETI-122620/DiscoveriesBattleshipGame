@@ -1,5 +1,7 @@
+### Grupo: Amêijoas Alérgicas ETI
 
-Henrique Catarino nº129799
-Rafael Assunção nº129792
-Miguel Ferreira nº122620
-Amêijoas Alérgicas ETI
+| Nome | Número |
+| :--- | :--- |
+| Henrique Catarino | 129799 |
+| Rafael Assunção | 129792 |
+| Miguel Ferreira | 122620 |
