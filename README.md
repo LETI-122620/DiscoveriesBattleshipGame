@@ -1,4 +1,4 @@
-# Battleship
+### Grupo: Amêijoas Alérgicas ETI
 
 ### Grupo: Amêijoas Alérgicas ETI
 
