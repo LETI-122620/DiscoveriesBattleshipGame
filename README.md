@@ -19,3 +19,28 @@ Cada jogador tem uma frota de **11 navios**, que ocupam **25 quadrados** da grel
 | Navio de 3 canhões       | Nau            | Carrack |          3           |      2       |
 | Navio de 2 canhões       | Caravela       | Caravel |          2           |      3       |
 | Submarino                | Barca          | Barge   |          1           |      4       |
+
+
+## Regras do Jogo (Discoveries Battleship Game)
+
+O jogo da Batalha Naval da época dos Descobrimentos segue a mecânica tradicional adaptada à estratégia de combate naval português:
+
+### 1. Tabuleiros e Posicionamento Inicial
+* Cada jogador dispõe de **duas grelhas quadriculadas de 10x10 quadrados** (linhas de 0 a 9 e colunas de 0 a 9):
+  * **O seu mar:** onde posiciona a sua própria frota secretamente.
+  * **O mar do adversário:** onde vai registando os tiros efetuados e os navios inimigos localizados/afundados.
+* Cada frota é composta por **10 navios** (1 Galeão, 1 Fragata, 2 Naus, 3 Caravelas e 4 Barcas).
+* Os navios podem ser orientados **horizontalmente ou verticalmente**.
+* **Regra de contacto:** Os navios **não se podem tocar entre si** em nenhuma circunstância (nem em lados contíguos nem nas diagonais), embora possam encostar às margens e bordas da grelha.
+
+### 2. Dinâmica de Combate e Disparos
+* Os jogadores jogam à vez em turnos alternados.
+* Na sua vez, o jogador efetua uma **rajada de três tiros**, indicando as respetivas coordenadas `(linha, coluna)` para cada disparo.
+* O adversário verifica os impactos na sua grelha e anuncia o resultado completo da rajada:
+  * **Água:** tiro que não atingiu qualquer embarcação.
+  * **Tiro / Acerto:** tiro que danificou uma posição de um navio (indicando o tipo de navio atingido).
+  * **Afundado:** quando todas as posições de um determinado navio foram atingidas.
+* O jogador atacante anota esses resultados na sua grelha de exploração para planear as rajadas seguintes.
+
+### 3. Condição de Vitória
+* Vence a partida o primeiro jogador que conseguir **afundar a totalidade dos 10 navios** da frota adversária.
