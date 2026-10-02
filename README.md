@@ -1,10 +1,10 @@
 ### Grupo: Amêijoas Alérgicas ETI
 
-| Nome | Número |
-| :--- | :--- |
+| Nome              | Número |
+|:------------------|:-------|
 | Henrique Catarino | 129799 |
-| Rafael Assunção | 129792 |
-| Miguel Ferreira | 122620 |
+| Rafael Assunção   | 129792 |
+| Miguel Ferreira   | 122620 |
 
 ## ⚓ Tipos de navios
 
@@ -45,3 +45,19 @@ O jogo da Batalha Naval da época dos Descobrimentos segue a mecânica tradicion
 ### 3. Condição de Vitória
 * Vence a partida o primeiro jogador que conseguir **afundar a totalidade dos 10 navios** da frota adversária.
 a
+
+
+# ⚓ Discoveries Battleship Game
+
+```
+                 |    |    |
+                )_)  )_)  )_)
+               )___))___))___)\
+              )____)____)_____)\\
+            _____|____|____|____\\\__
+   ---------\                   /---------
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+       ^^^^      ^^^^^^^     ^^^^     ^^^
+```
+
+> Do Tejo ao fim do mundo: leva a tua frota à vitória!
