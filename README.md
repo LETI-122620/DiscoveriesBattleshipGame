@@ -44,3 +44,4 @@ O jogo da Batalha Naval da época dos Descobrimentos segue a mecânica tradicion
 
 ### 3. Condição de Vitória
 * Vence a partida o primeiro jogador que conseguir **afundar a totalidade dos 10 navios** da frota adversária.
+a
