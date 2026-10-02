@@ -22,50 +22,49 @@ Cada jogador tem uma frota de **11 navios**, que ocupam **25 quadrados** da grel
 
 ## 📜 Enquadramento Histórico e Frotas dos Descobrimentos
 
-Nesta versão temática da Batalha Naval, viajamos até à **Época dos Descobrimentos (séculos XV a XVII)**, período em que os navegadores portugueses desbravaram os oceanos desconhecidos. Abaixo podes conhecer mais sobre cada embarcação que compõe a nossa frota, acompanhada por imagens históricas e ligações para saber mais.
+Nesta versão temática da Batalha Naval, viajamos até à **Época dos Descobrimentos (séculos XV a XVII)**, período em que os navegadores portugueses desbravaram os oceanos desconhecidos. Abaixo podes conhecer mais sobre cada embarcação que compõe a nossa frota, acompanhada por referências e ligações diretas para a Wikipedia.
 
 ---
 
 ### 1. Galeão (Substitui o Porta-aviões)
 * **Dimensão:** 5 quadrados
-* **História:** O **galeão** foi um grande navio à vela desenvolvido na primeira metade do século XVI. Era amplamente utilizado tanto para o comércio de longa distância (como as frotas da Índia e as naus da prata) quanto como navio de guerra devido à sua excelente capacidade de artilharia.
-* **Links úteis:** [Wikipedia - Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
+* **História:** O **galeão** foi um grande navio à vela desenvolvido na primeira metade do século XVI. Era amplamente utilizado tanto para o comércio de longa distância (como as frotas da Índia) quanto como navio de guerra devido à sua excelente capacidade de artilharia.
+* **Wikipedia:** [Artigo sobre Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
 * **Fotografia/Ilustração:**
-  ![Galeão](<img width="300" height="412" alt="image" src="https://github.com/user-attachments/assets/29378a0a-1e4c-4069-b2d8-516d7b917d0a" />
-)
+  ![Galeão](galeao.jpg)
 
 ---
 
 ### 2. Fragata (Substitui o Navio de 4 canhões)
 * **Dimensão:** 4 quadrados
 * **História:** As **fragatas** originais da época moderna eram navios de guerra rápidos, manobráveis e com uma só coberta de bateria. Eram muito usadas para escolta, missões de reconhecimento e patrulhamento.
-* **Links úteis:** [Wikipedia - Fragata](https://pt.wikipedia.org/wiki/Fragata)
+* **Wikipedia:** [Artigo sobre Fragata](https://pt.wikipedia.org/wiki/Fragata)
 * **Fotografia/Ilustração:**
-  ![Fragata](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Frigate_icon.svg/640px-Frigate_icon.svg.png)
+  ![Fragata](fragata.jpg)
 
 ---
 
 ### 3. Nau (Substitui o Navio de 3 canhões)
 * **Dimensão:** 3 quadrados
-* **História:** A **nau** (ou carraca) foi o grande símbolo da expansão marítima portuguesa no século XV e XVI. Navio robusto de alto bordo e três mastros, foi nele que Vasco da Gama chegou à Índia em 1497.
-* **Links úteis:** [Wikipedia - Nau](https://pt.wikipedia.org/wiki/Nau_(embarca%C3%A7%C3%A3o))
+* **História:** A **nau** (ou carraca) foi o grande símbolo da expansão marítima portuguesa nos séculos XV e XVI. Navio robusto de alto bordo e três mastros, foi nele que Vasco da Gama chegou à Índia em 1497.
+* **Wikipedia:** [Artigo sobre Nau](https://pt.wikipedia.org/wiki/Nau_(embarca%C3%A7%C3%A3o))
 * **Fotografia/Ilustração:**
-  ![Nau Portuguesa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Carrack_Portugal_16th_c.jpg/640px-Carrack_Portugal_16th_c.jpg)
+  ![Nau](Nau.jpg)
 
 ---
 
 ### 4. Caravela (Substitui o Navio de 2 canhões)
 * **Dimensão:** 2 quadrados
 * **História:** A **caravela** é talvez o navio mais icónico dos Descobrimentos portugueses. Com velas latinas e um casco leve, permitia navegar à bolina (contra o vento), tornando-se fundamental na exploração da costa ocidental africana.
-* **Links úteis:** [Wikipedia - Caravela](https://pt.wikipedia.org/wiki/Caravela)
+* **Wikipedia:** [Artigo sobre Caravela](https://pt.wikipedia.org/wiki/Caravela)
 * **Fotografia/Ilustração:**
-  ![Caravela](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Caravel_15th_century.png/640px-Caravel_15th_century.png)
+  ![Caravela](caravela.jpg)
 
 ---
 
 ### 5. Barca (Substitui o Submarino)
 * **Dimensão:** 1 quadrado
-* **História:** A **barca** (e o barinel) eram embarcações mais pequenas e tradicionais, utilizadas inicialmente pelos navegadores portugueses no início da exploração da costa africana (passagem do Cabo Bojador) antes do desenvolvimento da caravela.
-* **Links úteis:** [Wikipedia - Barca (embarcação)](https://pt.wikipedia.org/wiki/Barca_(embarca%C3%A7%C3%A3o))
+* **História:** A **barca** era uma embarcação mais pequena e tradicional, utilizada inicialmente pelos navegadores portugueses no início da exploração da costa africana (passagem do Cabo Bojador) antes do desenvolvimento da caravela.
+* **Wikipedia:** [Artigo sobre Barca (Embarcação)](https://pt.wikipedia.org/wiki/Barca_(embarca%C3%A7%C3%A3o))
 * **Fotografia/Ilustração:**
-  ![Barca](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Barca_portuguesa.jpg/640px-Barca_portuguesa.jpg)
+  ![Barca](barca.jpg)
