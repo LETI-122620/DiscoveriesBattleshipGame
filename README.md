@@ -31,7 +31,8 @@ Nesta versão temática da Batalha Naval, viajamos até à **Época dos Descobri
 * **História:** O **galeão** foi um grande navio à vela desenvolvido na primeira metade do século XVI. Era amplamente utilizado tanto para o comércio de longa distância (como as frotas da Índia e as naus da prata) quanto como navio de guerra devido à sua excelente capacidade de artilharia.
 * **Links úteis:** [Wikipedia - Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
 * **Fotografia/Ilustração:**
-  ![Galeão](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Galeon_espanol_16_c.svg/640px-Galeon_espanol_16_c.svg.png)
+  ![Galeão](<img width="300" height="412" alt="image" src="https://github.com/user-attachments/assets/29378a0a-1e4c-4069-b2d8-516d7b917d0a" />
+)
 
 ---
 
